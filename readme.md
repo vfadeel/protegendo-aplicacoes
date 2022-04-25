@@ -6,7 +6,8 @@
 ## 💻 Instalação
 
 * Execute o arquivo **Segredos.ps1** e aguarde a finalização.
-* Caso não tenha um **Azure Key Vault** criado, altere os parâmetros no arquivo **AzureVault.ps1** e execute-o.
+* Caso não tenha um **Azure Key Vault** criado.
+  * Altere os parâmetros no arquivo **AzureVault.ps1** e execute-o.
   * Após a finalização, copie as credenciais do seu recurso para o arquivo **VariaveisAmbiente.ps1** e execute-o.
 * Lembre-se de trocar o ambiente de desenvolvimento/produção para visualizar o comportamento do sistema em ambos.
   
