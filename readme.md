@@ -14,7 +14,9 @@
   
 ## 🚀 Políticas de Acesso e Azure Identity Manager
 1. Registre um novo aplicativo no **Azure AD**.
-1. Conceda as permissões na aba de **Políticas de Acesso** de seu Azure Key vault.
+   1. ![1](https://user-images.githubusercontent.com/76406063/165108484-cbf802d7-3511-4c38-8937-fcb352f40966.png)
+2. Conceda as permissões na aba de **Políticas de Acesso** de seu Azure Key vault.
+   1. ![2](https://user-images.githubusercontent.com/76406063/165108630-dd4c9402-4739-4ecf-a95e-96eb06a90ee3.png)
   
 ## 🤝 Contato
   Vitor Hugo Bastida Fadel - vhugofadel@gmail.com
