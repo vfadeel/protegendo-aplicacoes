@@ -26,7 +26,7 @@ namespace UserSecrets
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            //Comentario testando o github.dev
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
